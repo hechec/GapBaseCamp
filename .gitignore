@@ -4,4 +4,4 @@
 /app/cache/*
 /app/logs/*
 /app/bootstrap*
-
+*.phar

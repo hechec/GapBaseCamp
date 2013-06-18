@@ -1,0 +1,7 @@
+parameters:
+#    base_camp_main.example.class: BaseCamp\MainBundle\Example
+
+services:
+#    base_camp_main.example:
+#        class: %base_camp_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

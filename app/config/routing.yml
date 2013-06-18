@@ -1,0 +1,4 @@
+base_camp_main:
+    resource: "@BaseCampMainBundle/Resources/config/routing.yml"
+    prefix:   /
+
